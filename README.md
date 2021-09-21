@@ -4,7 +4,7 @@ This buildpack should be used in conjunction with the [official Heroku Python bu
 
 ```
 ~ $ heroku buildpacks:add --index 1 heroku/python
-~ $ heroku buildpacks:add --index 2 numrut/ta-lib
+~ $ heroku buildpacks:add --index 2 kosuke316/ta-lib
 ```
 
 ## Using the latest buildpack code
